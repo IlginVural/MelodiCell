@@ -40,3 +40,4 @@ class RealTimeEmotionDetector:
 
         cap.release()
         cv2.destroyAllWindows()
+#imports needed to be fixed 
